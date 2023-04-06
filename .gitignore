@@ -1,0 +1,6 @@
+
+/environment
+/db.sqlite3
+/escola/__pycache__
+/cursos/__pycache__
+/cursos/migrations
