@@ -33,5 +33,5 @@ class Avaliacao(Base):
         verbose_name_plural = 'Avaliações'
         unique_together = ['email', 'curso']
 
-        def __str__(self):
-            return f'{self.nome} avaliou o curso {self.curso} com nota {self.avaliacao}'
+    def __str__(self):
+        return f'{self.nome} avaliou o curso {self.curso} com nota {self.avaliacao}'
