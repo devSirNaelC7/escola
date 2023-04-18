@@ -4,3 +4,4 @@
 /escola/__pycache__
 /cursos/__pycache__
 /cursos/migrations
+.env
